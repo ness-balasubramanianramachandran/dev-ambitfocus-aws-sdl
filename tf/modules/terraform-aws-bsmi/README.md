@@ -2,7 +2,7 @@
 
 terraform-aws-bsmi module is used to create all infrastructure elements required for the BSMI application.
 <!-- BEGIN_TF_DOCS -->
-## Requirements
+## Requirements on version
 
 | Name | Version |
 |------|---------|
